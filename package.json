@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0", 
+  "version": "2.0.1", 
   "packages": { 
     "win64": {
       "url": "https://github.com/hongpage/hongcoinbot/blob/main/hongcoinbot.zip",
