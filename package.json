@@ -1,0 +1,9 @@
+{
+  version: "2.0.1", 
+  packages: { 
+    "win64": {
+      "url": "http://localhost:8080/releases/nw-autoupdater-demo-win-x64.zip",
+      "size": 102680557
+    }
+  }
+}
