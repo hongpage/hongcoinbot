@@ -1,9 +1,14 @@
 {
-  "version": "2.0.1", 
-  "packages": { 
-    "win64": {
-      "url": "https://github.com/hongpage/hongcoinbot/blob/main/hongcoinbot.zip",
-      "size": 102680557
-    }
-  }
+	"name": "HongCoinBot",
+	"version": "2.0.0",
+	"description": "HongCoinBot",
+	"author": "Mike",
+	"license": "CC0-1.0",
+    "newFeature":[],
+    "packages": { 
+	    "win64": {
+	      "url": ["https://wwr.lanzoui.com/iky12tfn2nc password:1111"]
+	   }
+	}
+
 }
